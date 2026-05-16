@@ -7,8 +7,8 @@ import os
 # Change to the directory where the models are located
 # This path should match the `os.chdir` from previous cells
 # Assuming '/content/drive/MyDrive/Ejercicios análisis de datos IA/Despliegue iris ' is the correct path
-MODEL_PATH = '/content/drive/MyDrive/Ejercicios análisis de datos IA/Despliegue iris '
-os.chdir(MODEL_PATH)
+##MODEL_PATH = '/content/drive/MyDrive/Ejercicios análisis de datos IA/Despliegue iris '
+##os.chdir(MODEL_PATH)
 
 st.set_page_config(page_title='Iris Species Prediction', layout='centered')
 
